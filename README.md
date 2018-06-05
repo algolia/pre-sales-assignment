@@ -102,7 +102,7 @@ For your company name, please put “Solutions Consultant Assignment” so we ca
    * **BONUS**: Put together a basic site that will return search results from your index. This doesn't need to include any focus on the UX, it just needs to return results. You can use any libraries you'd like to accomplish this challenge.
 
 ## Challenge Submission
-Please save your answers in a Word doc, and send them to your main point-of-contact at Algolia to give us ample time to review your answers. Any scripts you write, please share with us via a [Private Gist](https://gist.github.com/), and if you tackle the challenge share it with us through [GitHub Pages](https://pages.github.com/).
+Please save your answers in a Word doc, and send them to your main point-of-contact at Algolia to give us ample time to review your answers. Any scripts you write, please share with us via a [Private Gist](https://gist.github.com/), and if you tackle the challenge share it with us through [GitHub Pages](https://pages.github.com/). Additionally, ensure you give us [Personification Access](https://www.algolia.com/users/edit#?tab=access-control) to review your configurations in Algolia.
 
 ## References
 * [Algolia Docs](https://www.algolia.com/doc/)
