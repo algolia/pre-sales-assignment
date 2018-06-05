@@ -92,7 +92,7 @@ Chief Technical Officer
 For your company name, please put “Solutions Consultant Assignment” so we can ensure you do not get the sales team reaching out.
 * *Step 2*: Imagine 3DR changed their name to "Best Drones Company", show us how you'd handle accommodating for this change in Algolia.  
   **NOTE**: This can be accomplished either before, or after uploading your data to Algolia. Get creative and show us what you think is the best way to accommodate for this change.
-* *Step 3*: Upload either the Best Buy JSON or CSV dataset.
+* *Step 3*: Upload either the Best Buy JSON or CSV dataset utilizing an API client of your choice.
 * *Step 4*: Configure search relevance.  
   **NOTE**: This is open for personal interpretation, but given examples on our website and the documentation, use the tools at your disposal to learn as much as you can about using our amazing product! There's some great information in the references below!
 * *Step 5*: Similar to what you'd find in a real world scenario here, ensure that if a user searches for "Maroon cellphone" we still return results.
