@@ -1,5 +1,5 @@
-# Solutions Consultant Hiring Assignment
-If you're looking to apply as a Solutions Consultant with the Solutions Team at [Algolia](https://www.algolia.com), welcome :).
+# Sales Engineer Hiring Assignment
+If you're looking to apply as a Sales Engineer with the Field Engineering Team at [Algolia](https://www.algolia.com), welcome :).
 
 ## Questions
 Please begin by answering the below set of mock pre-sales questions; these are similar to ones you would encounter in your day-to-day while working at Algolia. Just please be sure not to not fork this repository to create your assignment. Doing so will wake a bot that prints out your code, immediately sends it to the shredder, and archives your application in our applicant tracking system. And anyway we’d rather give everyone an equal shot to show us what they can do.
@@ -89,7 +89,7 @@ Chief Technical Officer
 
 ## Product Challenge
 * *Step 1*: Sign Up on for an Algolia account
-For your company name, please put “Solutions Consultant Assignment” so we can ensure you do not get the sales team reaching out.
+For your company name, please put “Sales Engineer Assignment” so we can ensure you do not get the sales team reaching out.
 * *Step 2*: Imagine 3DR changed their name to "Best Drones Company", show us how you'd handle accommodating for this change in Algolia.  
   **NOTE**: This can be accomplished either before, or after uploading your data to Algolia. Get creative and show us what you think is the best way to accommodate for this change.
 * *Step 3*: Upload either the Best Buy JSON or CSV dataset utilizing an API client of your choice.
